@@ -1,4 +1,4 @@
-# EX-7 EDGEDETECTION
+# EX-6 EDGE DETECTION
 ### Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 02.04.2024
 ### Software Required:
