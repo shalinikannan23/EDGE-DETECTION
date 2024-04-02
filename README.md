@@ -1,6 +1,6 @@
 # EX-7 EDGEDETECTION
 ### Aim:
-To perform edge detection using Sobel, Laplacian, and Canny edge detectors. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 27.09.2023
+To perform edge detection using Sobel, Laplacian, and Canny edge detectors. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 02.04.2024
 ### Software Required:
 Anaconda - Python 3.7
 ### Algorithm:
@@ -68,12 +68,12 @@ plt.show()
   plt.show()
   ```
 ### Output:
-<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/aad28483-049e-477b-b957-c46cd845f541">
-<img height=20% width=30% src="">
-<img height=20% width=30% src="">
-<img height=20% width=30% src="https://github.com/ROHITJAIND/EDGE-DETECTION/assets/118707073/8f94f92d-0e30-4e44-b1df-4de7c9615a26">
-<img height=20% width=30% src="https://github.com/ROHITJAIND/EDGE-DETECTION/assets/118707073/73bca070-b7c4-45ca-b98f-99b79671cff5">
-<img height=20% width=30% src="https://github.com/ROHITJAIND/EDGE-DETECTION/assets/118707073/f93201e7-0c5c-416e-869a-2413b60b77e7">  
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/768ca4f9-2f35-4f56-9f9a-cd77957fc3a2">
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/8f86c61e-54c1-449c-8766-246d6deccb76">
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/385ce5a7-27e1-4bc3-a909-87522df5681d">
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/2a2cac65-1600-4209-8e70-11a7f57f6e30">
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/cbdd9d3d-d6de-495e-a1f5-9f47cbbfd182">
+<img height=20% width=30% src="https://github.com/shalinikannan23/EDGE-DETECTION/assets/118656529/be568c1c-1dbf-4177-8042-b32d08620c40">  
 
 ### Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
